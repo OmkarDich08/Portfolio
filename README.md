@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL,MATLAB, Keil uCompiler, Proteus Simulation, ABAQUS CAE, AutoCAD, Solidworks, LaTex
 
 ### Education
-MSc. Biomedical Engineering- UGent _2016-2017_(incomplete)
-Bachelor of Biomedical Engineering- University of Mumbai _2011-2014_
-Diploma in Medical Electronics- MSBTE _2008-2011_
+- MSc. Biomedical Engineering- UGent _2016-2017_(incomplete)
+- Bachelor of Biomedical Engineering- University of Mumbai _2011-2014_
+- Diploma in Medical Electronics- MSBTE _2008-2011_
 
 ### Work Experience
 **Biomedical Engineeer @ Tata Memorial Hospital (M/s. PSAS), Mumbai (July 2022 - Present)**

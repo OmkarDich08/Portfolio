@@ -1,6 +1,6 @@
 # Biomedical Engineer/Data Analyst
 
-#### Technical Skills: Python, SQL,MATLAB, Keil uCompiler, Proteus Simulation, ABAQUS CAE, AutoCAD, Solidworks, LaTex
+#### Technical Skills: Python, SQL,PowerBI,MS Office, MATLAB, Keil uCompiler, Proteus Simulation, ABAQUS CAE, AutoCAD, Solidworks, LaTex
 
 ### Education
 - MSc. Biomedical Engineering- UGent _2016-2017_(incomplete)
